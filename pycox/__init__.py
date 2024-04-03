@@ -12,3 +12,5 @@ import pycox.preprocessing
 import pycox.simulations
 import pycox.utils
 import pycox.models
+import pycox.scikit
+
